@@ -1,12 +1,14 @@
 #!/usr/bin/python
 
 # This is a simple echo bot using the decorator mechanism.
+
 # It echoes any incoming text messages.
 
 import telebot
 
-API_TOKEN = '<api_token>'
 
+API_TOKEN = '<api_token>'
+5088266351:AAG38bGVrD1krY1Ga95YCV3GSI0K6zzfLrY
 bot = telebot.TeleBot(API_TOKEN)
 
 
